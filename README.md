@@ -8,5 +8,5 @@
  
  -> Discover my 2 cents worth of attempts down there ↓	
  
- <img src="https://github-readme-stats.vercel.app/api?username=probe2k&&show_icons=true&title_color=e0ffff&icon_color=00ffd5&text_color=b30065&bg_color=191919">
+ <img src="https://github-readme-stats.vercel.app/api?username=probe2k&&show_icons=true&title_color=e0ffff&icon_color=00ffd5&text_color=008080&bg_color=191919">
 
